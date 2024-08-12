@@ -1,4 +1,4 @@
-# CALCULATOR by ( React + Vite )
+# Calculator by ( React + Vite )
 
 <br/>
 
